@@ -1,4 +1,10 @@
-![poza](photo.png)
+<!-- ![poza](photo.png) -->
+<div align="center">
+  <img src="photo.png" alt="poza" width="200">
+</div>
+
+<hr>
+
 Sunt Razvan Visan, sunt un fost programator din Bucuresti care a pornit un startup, si profesional (vezi [profilul meu de LinkedIn](https://www.linkedin.com/in/razvanvisan/))
 - am lucrat 12 ani la Bitdefender, in laboratoare
 - am pornit acum 8 ani cu alti 2 co-fondatori un startup, Socialinsider, bootstrapped, SaaS, B2B, care a ajuns la o cifra de afaceri de $1M.
