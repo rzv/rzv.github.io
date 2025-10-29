@@ -1,5 +1,5 @@
 
-Sunt Razvan Visan, sunt un fost programator din Bucuresti care a pornit un startup, si profesional (vezi aici: https://www.linkedin.com/in/razvanvisan/)
+Sunt Razvan Visan, sunt un fost programator din Bucuresti care a pornit un startup, si profesional (vezi [profilul meu de LinkedIn](https://www.linkedin.com/in/razvanvisan/))
 - am lucrat 12 ani la Bitdefender, in laboratoare
 - am pornit acum 8 ani cu alti 2 co-fondatori un startup, Socialinsider, bootstrapped, SaaS, B2B, care a ajuns la o cifra de afaceri de $1M.
 
@@ -20,6 +20,6 @@ La ce nu ma pricep:
 - crypto
 - B2C (jocuri, mobile apps)
 
-Pentru a rezerva in calendarul meu un zoom call, te rog aici: https://calendar.app.google/KpiVkn9825dJAQ469 
+Pentru a rezerva in calendarul meu un zoom call, te rog [aici](https://calendar.app.google/KpiVkn9825dJAQ469)
 
 Mult succes!
