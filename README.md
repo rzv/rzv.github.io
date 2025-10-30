@@ -26,6 +26,7 @@ La ce nu ma pricep:
 - crypto
 - B2C (jocuri, mobile apps)
 
-Pentru a rezerva in calendarul meu un zoom call, te rog [aici](https://calendar.app.google/KpiVkn9825dJAQ469)
+~~Pentru a rezerva in calendarul meu un zoom call, te rog [aici](https://calendar.app.google/KpiVkn9825dJAQ469)~~
+Spre surprinderea mea au fost booked deja 50 din cele 100 de ore. Reiau procesul prin primavara pentru restul de 50 de ore
 
 Mult succes!
